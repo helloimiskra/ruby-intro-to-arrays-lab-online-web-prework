@@ -10,3 +10,13 @@ def first_element
   taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   taylor_swift.first
 end
+
+def third_element
+  taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+  taylor_swift(3)
+end
+
+def last_element
+  taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+  taylor_swift.last 
+end
