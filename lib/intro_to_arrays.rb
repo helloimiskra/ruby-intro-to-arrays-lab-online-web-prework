@@ -6,6 +6,6 @@ def array_with_two_elements
   ["1", "2"]
 end
 
-def first_element (taylor_swift, 5)
+def first_element
   taylor_swift[5]
 end
